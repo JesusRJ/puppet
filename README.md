@@ -16,6 +16,8 @@ foreman-installer --enable-foreman-proxy
 Seguir a ordem dos comandos é necessário, pois o foreman-installer é um conjunto de módulos do Puppet para configurar o todo ambiente. Ao executar o instalador do foreman será configurado não só o foreman, mas também o puppet.
 O Puppet Master será executado com o passenger e não mais no systemd.
 
+Referência: https://themacwrangler.wordpress.com/2015/01/07/installing-the-foreman-on-centos-7/
+
 ## Personalizando a instalação do Foreman
 
 A execução do foreman-installer pode ser personalizada com os opções fornecidas pelo foreman-installer (exe.: foreman-installer -h para ver a lista de opções)
