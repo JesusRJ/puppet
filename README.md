@@ -35,6 +35,9 @@ foreman-installer \
 # Modulos do puppet a serem instalados
 
 # Instalação do PuppetDB
+```
+puppet module install puppetlabs-puppetdb
+```
 
 ```
 puppet module install puppetlabs-puppetdb
