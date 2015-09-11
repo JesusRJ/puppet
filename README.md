@@ -1,4 +1,6 @@
-# Coleção de dicas e scripts para montagem de ambientes com Puppet + Foreman
+# Puppet
+
+Coleção de dicas e scripts para montagem de ambientes com Puppet + Foreman
 
 ## Instalação do Foreman + Puppet Server no Centos 7.1
 
