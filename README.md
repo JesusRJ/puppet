@@ -7,7 +7,7 @@ Coleção de dicas e scripts para montagem de ambientes com Puppet + Foreman
 Comandos para configurar em uma mesma máquina o Foreman (1.9) com o Puppet Server (3.8):
 ```
 rpm -ivh http://yum.puppetlabs.com/puppetlabs-release-el-7.noarch.rpm
-yum -y install epel-release http://yum.theforeman.org/releases/1.7/el7/x86_64/foreman-release.rpm
+yum -y install epel-release http://yum.theforeman.org/releases/latest/el7/x86_64/foreman-release.rpm
 yum -y install foreman-installer
 yum install puppet-server
 reboot
